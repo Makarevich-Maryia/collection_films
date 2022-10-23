@@ -1,0 +1,6 @@
+PyQt5
+SQLite3
+lxml
+sys
+requests
+bs4
