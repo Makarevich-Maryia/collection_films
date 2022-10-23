@@ -11,14 +11,6 @@
 * SQLite3
 * PyQt5
 
-### Какие библиотеки необходимы
-
-* PyQt5
-* SQLite3
-* lxml
-* sys
-* requests
-* bs4
 
 ### Как запустить проект
 
@@ -30,6 +22,12 @@ git clone https://github.com/Makarevich-Maryia/collection_films.git
 
 ```
 cd collection_films
+```
+
+Установить зависимости из файла requirements.txt:
+
+```
+pip install -r requirements.txt
 ```
 
 Запустить проект:
